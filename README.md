@@ -1,4 +1,4 @@
-# college-insights-quicksight-amazon-q
+# College insights using Quicksight and Amazon Q
 QuickSight and Amazon Q project analyzing community college student enrollment, course, and evaluation data to understand professor effectiveness, student types, and cost drivers.
 
 ## Overview
